@@ -87,6 +87,8 @@ Here are some example visualizations you can create: </b>
 ![image alt](https://github.com/Softechanalytics/-Health_Safety_Report/blob/357d02f29826f733c9ae2839342d676e66d82190/Major.png)
 <h5> Critical Incident Report </h5>
 
+![image alt](https://github.com/Softechanalytics/-Health_Safety_Report/blob/6b3feb7e9d7400a5da5620f8fb3669098993091e/critical.png)
+
 <h3>Contributing</h3>
 Contributions are welcome! Please feel free to submit a Pull Request.
 
