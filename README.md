@@ -1,4 +1,4 @@
-<h1>Health & Safety Data Analysis</h1>h1>
+<h1>Health & Safety Data Analysis</h1>
 <h3>Overview</h3>
 <p>This repository contains a dataset of health and safety incidents, including details such as the date, number of incidents, near misses, lost hours, injuries, vehicle incidents, site, business unit, severity, and most frequent injury. The primary goal of this project is to analyze and visualize health and safety data to identify trends, improve safety measures, and reduce incidents.</p>
 
@@ -16,13 +16,15 @@
 <li>Severity: Severity level of the incident (e.g., Minor, Major, Critical).</li>
 <li>Most Frequent Injury: Most frequent type of injury reported.</li>
 </ul>
-Steps to Analyze Health & Safety Data Using Power BI
-1. Import the Dataset
+
+<h3>Steps to Analyze Health & Safety Data Using Power BI</h3>
+<ol>
+<li> Import the Dataset</li>
 Open Power BI Desktop.
 Click on Home > Get Data > Excel.
 Select the Health & Safety.xlsx file and click Open.
 Select the relevant sheet and click Load to import the data into Power BI.
-2. Data Preparation
+<li>  Data Preparation</li>
 Once the data is loaded, you can see it in the Fields pane.
 Click on Transform Data to open the Power Query Editor.
 In the Power Query Editor, you can perform various data cleaning and transformation tasks such as:
@@ -30,12 +32,12 @@ Removing unnecessary columns.
 Handling missing values.
 Changing data types.
 Filtering rows based on specific criteria.
-3. Create Relationships (if needed)
+<li>  Create Relationships </li>
 If you have multiple tables and need to create relationships between them:
 
 Go to the Model view.
 Drag and drop fields to create relationships between tables.
-4. Create Visualizations
+<li>  Create Visualizations</li>
 Go to the Report view.
 Use the Visualizations pane to create various charts and graphs. Here are some examples:
 Incidents by Severity
@@ -62,16 +64,17 @@ Steps:
 Select the Date field.
 Choose the Line Chart visualization.
 Add Incidents to the values.
-5. Create Dashboards
+<li>  Create Dashboards</li>
 Combine multiple visualizations into a single dashboard.
 Use slicers to filter data dynamically.
 Add titles, labels, and other formatting elements to make the dashboard more informative and visually appealing.
-6. Publish and Share
+<li>  Publish and Share</li>
 Save your Power BI report.
 Click on Publish to upload the report to the Power BI service.
 Share the report with others by providing access through the Power BI service.
 Example Visualizations
 Here are some example visualizations you can create:
+</ol>
 
 Incidents by Severity
 !Incidents by Severity
