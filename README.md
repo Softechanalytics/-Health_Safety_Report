@@ -81,7 +81,7 @@ Here are some example visualizations you can create: </b>
 
 <h5> Minor Incident Report </h5>
 
-
+![image alt](https://github.com/Softechanalytics/-Health_Safety_Report/blob/0a64e11faa508cb12b70a0f75f3f56d83f10d2cf/Minor.png)
 <h5> Major Incident Report </h5>
 <h5> Critical Incident Report </h5>
 
