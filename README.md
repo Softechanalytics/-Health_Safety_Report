@@ -36,6 +36,8 @@ Filtering rows based on specific criteria.
 If you have multiple tables and need to create relationships between them:
 
 Go to the Model view.
+
+[image alt](https://github.com/Softechanalytics/-Health_Safety_Report/blob/44bb071289de3b70109caafea7633cf2e6b6cd21/Data%20model.png)
 Drag and drop fields to create relationships between tables.
 <li>  Create Visualizations</li>
 Go to the Report view.
@@ -77,9 +79,11 @@ Share the report with others by providing access through the Power BI service.
 Here are some example visualizations you can create: </b>
 
 
-<h4> Minor Incident Report </h4>
-<h4> Major Incident Report </h4>
-<h4> Critical Incident Report </h4>
+<h5> Minor Incident Report </h5>
+
+
+<h5> Major Incident Report </h5>
+<h5> Critical Incident Report </h5>
 
 <h3>Contributing</h3>
 Contributions are welcome! Please feel free to submit a Pull Request.
