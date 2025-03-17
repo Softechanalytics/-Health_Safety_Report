@@ -72,26 +72,20 @@ Add titles, labels, and other formatting elements to make the dashboard more inf
 Save your Power BI report.
 Click on Publish to upload the report to the Power BI service.
 Share the report with others by providing access through the Power BI service.
-Example Visualizations
-Here are some example visualizations you can create:
 </ol>
+<b></b>Example Visualizations
+Here are some example visualizations you can create: </b>
 
-Incidents by Severity
-!Incidents by Severity
 
-Distribution of Incidents by Site
-!Distribution of Incidents by Site
+<h4> Minor Incident Report </h4>
+<h4> Major Incident Report </h4>
+<h4> Critical Incident Report </h4>
 
-Most Frequent Injuries
-!Most Frequent Injuries
-
-Incidents Over Time
-!Incidents Over Time
-Contributing
+<h3>Contributing</h3>
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-License
+<h3>License</h3>
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-If you have any questions or suggestions, please feel free to contact me at [your-email@example.com].
+<h3>Contact</h3>
+If you have any questions or suggestions, please feel free to contact me at Chuks@softechanalytics.com
